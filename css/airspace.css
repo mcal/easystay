@@ -116,6 +116,10 @@ font header .navbar-default .navbar-nav li a:hover {
   background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: 0.8;
 }
+#beach-sunset h1 {
+  color: #E3E3E4;
+  font-size: 1.5em;
+}
 #beach-sunset .block {
   color: #E3E3E4;
 }
@@ -231,7 +235,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/dock-sunset-bg.jpg");
+  background: url("../img/bird-bike-bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
