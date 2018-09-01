@@ -66,6 +66,7 @@ a:active {
 --*/
 header {
   background: #fff;
+  min-height: 175px;
   padding: 20px 0;
 }
 header .navbar {
