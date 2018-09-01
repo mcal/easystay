@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: EasyStay
-subtitle: ""
+subtitle: "Making Vacations Easy"
 url: "http://easystay.vacations" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
