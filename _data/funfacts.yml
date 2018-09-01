@@ -1,3 +1,6 @@
+- counter: 4
+  icon: ion-ribbon-a
+  text: Smartly EMBA's
 - counter: 20000
   icon: ion-ios-chatboxes-outline
   text: Cups of Coffee
@@ -7,6 +10,3 @@
 - counter: 1200
   icon: ion-ios-compose-outline
   text: Whiteboard Markers
-- counter: 4
-  icon: ion-ios-ribbon-outline
-  text: Smartly EMBA's
