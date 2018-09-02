@@ -260,10 +260,10 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
-  color: rgb(173, 241, 239);
+  color: rgb(208, 205, 216)
 }
 #feature p {
-  color: #8d8f92;
+  color: rgb(249, 248, 250)
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
