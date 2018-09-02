@@ -155,7 +155,7 @@ permalink: /
     <div class="row">
       <div class="section-title text-center">
         <h2>Fun Facts About Us</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+        <p>It take's a lot to complete a business plan as part of a <a href="https://smart.ly">Smartly</a> <a href="https://smart.ly/the-executive-mba">EMBA</a> capstone project.</p>
       </div>
     </div>
     <div class="row">
@@ -168,7 +168,11 @@ permalink: /
               <div class="block">
                 <i class="{{ ff.icon }}"></i>
                 <h4 class="counter">{{ ff.counter }}</h4>
+                {% if ff.tip.size > 0 %}
+                <span data-toggle="tooltip" data-html="true" title="{{ ff.tip }}">{{ ff.text }}</span>
+                {% else %}
                 <span>{{ ff.text }}</span>
+                {% endif %}
               </div>
             </li>
             {% endfor %}

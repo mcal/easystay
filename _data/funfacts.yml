@@ -1,12 +1,15 @@
 - counter: 4
   icon: ion-ribbon-a
   text: Smartly EMBA's
-- counter: 20000
-  icon: ion-ios-chatboxes-outline
+  tip: Hopefully anyway!
+- counter: 1500
+  icon: fas fa-coffee
   text: Cups of Coffee
 - counter: 1500
-  icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
+  icon: fal fa-clock
+  text: Hours of Research
+  tip: Not really. We honestly have no idea how much time we dedicated to the project. 
 - counter: 1200
-  icon: ion-ios-compose-outline
+  icon: fal fa-marker
   text: Whiteboard Markers
+  tip: Well, virtual whiteboard markers. It was a lot more creative collaboration happening via Slack.
