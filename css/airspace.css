@@ -90,6 +90,10 @@ header .navbar-default .navbar-nav li a {
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
+nav-item {
+  font-weight: strong;
+  font-size: 1.35em;
+}
 /*---------------------------------------------
 					Index Start
 -----------------------------------------------*/
