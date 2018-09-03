@@ -91,8 +91,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
 .nav-item {
-  font-weight: strong;
-  font-size: 1.35em;
+  font-size: 1.25em;
 }
 /*---------------------------------------------
 					Index Start
@@ -238,7 +237,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/sunset-1-bg.jpg");
+  background: url("../img/beach-chair-bg.jpg");
   color: #F5F5F5;
   background-position: 50% 94px;
   width: 100%;
