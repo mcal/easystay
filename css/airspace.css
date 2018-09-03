@@ -100,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #beach-sunset {
-  background: url("../img/beach-chair-bg.jpg") no repeat;
+  background: url("../img/beach-chair-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
