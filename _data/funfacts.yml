@@ -1,15 +1,15 @@
 - counter: 4
-  icon: ion-ribbon-a
-  text: Smartly EMBA's
-  tip: Hopefully anyway!
+  icon: fal fa-graduation-cap
+  text: <i class="fal fa-info-circle"></i> Smartly EMBA's
+  tip: Well, we're hoping we pass the Capstone <i class='fal fa-smile-wink'></i>
 - counter: 1500
   icon: fas fa-coffee
   text: Cups of Coffee
 - counter: 1500
   icon: fal fa-clock
-  text: Hours of Research
+  text: <i class="fal fa-info-circle"></i> Hours of Research
   tip: Not really. We honestly have no idea how much time we dedicated to the project. 
 - counter: 1200
   icon: fal fa-marker
-  text: Whiteboard Markers
+  text: <i class="fal fa-info-circle"></i> Whiteboard Markers
   tip: Well, virtual whiteboard markers. It was a lot more creative collaboration happening via Slack.
