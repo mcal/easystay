@@ -40,6 +40,11 @@ $(document).ready(function(){
 
 	// Counter
 
+	$(function () {
+		$('[data-toggle="tooltip"]').tooltip()
+	  })
+
+
 	$('.counter').counterUp({
         delay: 10,
         time: 1000

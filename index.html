@@ -169,10 +169,10 @@ permalink: /
               <div class="block">
                 <i class="{{ ff.icon }}"></i>
                 <h4 class="counter">{{ ff.counter }}</h4>
-                {% if ff.tip.size > 0 %}
-                <span data-toggle="tooltip" data-html="true" title="{{ ff.tip }}">{{ ff.text }}</span>
+                {% if ff.tip.size == null 0 %}
+                  <span>{{ ff.text }}</span>
                 {% else %}
-                <span>{{ ff.text }}</span>
+                  <span data-toggle="tooltip" data-html="true" title="{{ ff.tip }}">{{ ff.text }}</span>
                 {% endif %}
               </div>
             </li>
