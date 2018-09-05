@@ -1,7 +1,7 @@
 - counter: 4
   icon: fal fa-graduation-cap
   text: <i class="fal fa-info-circle"></i> Smartly EMBA's
-  tip: Well, we're hoping we pass the Capstone <i class='fal fa-smile-wink'></i>
+  tip: Hopefully
 - counter: 1500
   icon: fas fa-coffee
   text: Cups of Coffee
